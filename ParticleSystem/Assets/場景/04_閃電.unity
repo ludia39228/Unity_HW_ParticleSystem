@@ -4951,7 +4951,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!199 &650609932
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -9900,7 +9900,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 20.894009
+  field of view: 20.776468
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -9925,13 +9925,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1283924242}
-  m_LocalRotation: {x: 0.17398736, y: -0.7465282, z: 0.21458484, w: 0.6052912}
-  m_LocalPosition: {x: 37.52, y: 33.42, z: 10.2}
+  m_LocalRotation: {x: 0.19366056, y: -0.7354494, z: 0.23535554, w: 0.6051591}
+  m_LocalPosition: {x: 13.16, y: 11.04, z: 2.77}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 25.233002, y: -65.020004, z: 4.04}
+  m_LocalEulerAnglesHint: {x: 35.491, y: -101.102005, z: 0}
 --- !u!1 &1742350614
 GameObject:
   m_ObjectHideFlags: 0
